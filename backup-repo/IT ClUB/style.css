@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+    margin: 50px;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+}
+
+h1{
+    font-family: 'Oswald',sans-serif;
+    color: rgb(83, 75, 75);
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'Oswald',sans-serif;
+    color: rgb(83, 75, 75);
+    font-weight: bold;
+    
+}
+p{
+    font-family: 'Fira Sans', sans-serif;
+    color: rgb(83, 75, 75);
+    font-size: 30px;
+}
+
+a{
+    color: rgb(167,1, 78);
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}

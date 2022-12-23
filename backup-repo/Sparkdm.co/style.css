@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(233, 215, 207);
+}
+
+nav{
+    width: 100%;
+    height: 75px;
+    line-height: 75px;
+    padding: 0px 100px;
+    position: relative;
+}
+
+nav img{
+    height: 75px;
+    position: relative;
+    right: 150px;
+}
+
+nav ul{
+        float:right;
+        position: relative;
+        right: 650px;
+        bottom: 20px;
+}
+
+nav li{
+    display: inline-block;
+    list-style: none;
+}
+
+nav li a{
+    font-size: 17px;
+    text-transform: uppercase;
+    padding:0px 30px;
+    color: rgb(13, 12, 12);
+    text-decoration: none;
+}
+
+nav li a:hover{
+    color:#ff8c69;
+    transition: all 0.4s ease 0s;
+}
+
+input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    position: relative;
+    left:350px;
+    top:10px;
+  }
+  
+  svg{
+    position: relative;
+    left: 950px;
+    bottom: 20px;
+  }
+
